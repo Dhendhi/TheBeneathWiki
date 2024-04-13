@@ -4,7 +4,7 @@ obsidianUIMode: preview
 
 > [!NOTE]- Actions
 > **[[Skill Actions]]** 
-> [[Aid]]; [[Arrest a Fall]]; [[Avert Gaze]]  
+> [[aid]]; [[Arrest a Fall]]; [[Avert Gaze]]  
 > [[Burrow]] 
 > [[Cast a Spell]]; [[Crawl]] 
 > [[Delay]]; [[Dismiss]]; [[Drop Prone]] 
@@ -25,7 +25,7 @@ obsidianUIMode: preview
 > [[Counteract]] 
 > [[Cover]] 
 > [[Familiar]] 
-> [[Flanking]] 
+> [[flanking]] 
 > [[Flat Check]] 
 > [[Fortune and Misfortune]] 
 > [[Secret Checks]] 

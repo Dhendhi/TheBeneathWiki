@@ -5,7 +5,7 @@ obsidianUIMode: preview
 
 > [!cards|4]
 > **[[Rindor]]**
-> [![[Rindor-Final-22002022.jpg]]](Rindor)
+> [![[Rindor-Final-22002022.jpg]]](Rindor.md)
 > 
 > **[[Link]]**
 > [![[JourneyBoard.png\|sban htiny ctr]]](Journey%20Board)
